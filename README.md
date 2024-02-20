@@ -1,2 +1,2 @@
 # Password-Generator
-This is a web application used to generate random passwords of different lengths.
+This is an application used to generate random passwords of different lengths according to user needs.
